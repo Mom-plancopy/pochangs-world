@@ -1,0 +1,37 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAADd3t3e7d3t3d3e3d7t3e3d3e7u3u3u7t3d3t3e7d3t3d3e3d7t3e3d7t7d7u7d7e7d3t3e7d3t3d3e3d7t3e3d3d7d3u3d7d3d3t3e7d3t3d3e3d7t3e3d3e7u3u3u7t3d3t3e7d3t3d3e3d7t3e3d3d7d3u3d7d3d3t3e7d3t3Q==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile"
+    },
+    "house_garden1": {
+        "id": "house_garden1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAxMDIwMTAyMDEwMjAxMDIwMTAyMDEwMjAxMDIwMTAyMDIwMTAyMDEwMjAxMDIwMTAyMDEwMjAxMDIwMTAyMDEwMTAyMDEwMjAxMDIwMTAyMDEwMjAxMDIwMTAyMDEwMjAyMDEwMjAxMDIwYTBhMGEwYTBhMGEwMTAyMDEwMjAxMDEwMjAxMDIwMTBhMDkwOTA5MDkwYTAyMDEwMjAxMDIwMjAxMDIwMTAyMGEwOTA5MDkwOTBhMDEwMjAxMDIwMTAxMDIwMTAyMDEwYTA5MDkwOTA5MGEwMjAxMDIwMTAyMDIwMTAyMDEwMjBhMGEwOTA5MGEwYTAxMDIwMTAyMDEwMTAyMDEwMjAxMDIwMTAyMDEwMjAxMDIwMTAyMDEwMjAyMDEwMjAxMDIwMTAyMDEwMjAxMDIwMTAyMDEwMjAxMDEwMjAxMDIwMTAyMDEwMjAxMDIwMTAyMDEwMjAxMDIwMjAxMDIwMTAyMDEwMzA0MDQwNTAyMDEwMjAxMDIwMTAxMDIwMTAyMDEwMjA2MDgwODA3MDEwMjAxMDIwMTAyMDIwMTAyMDEwMjAxMDYwODA4MDcwMjAxMDIwMTAyMDEwMTAyMDEwMjAxMDIwNjA4MDgwNzAxMDIwMTAyMDEwMjAyMDEwMjAxMDIwMTA2MDgwODA3MDIwMTAyMDEwMjAxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDIwMjIyMjAyMDAwMDAwMDAyMDAwMDAwMjAwMDAwMDAwMjAwMDAwMDIwMDAwMDAwMDIwMDAwMDAyMDAwMDAwMDAyMDAyMjAwMjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tileGrass2",
+            "sprites.castle.tileGrass1",
+            "sprites.castle.tilePath1",
+            "sprites.castle.tilePath2",
+            "sprites.castle.tilePath3",
+            "sprites.castle.tilePath4",
+            "sprites.castle.tilePath6",
+            "sprites.castle.tilePath5",
+            "myTiles.tile1",
+            "sprites.builtin.brick"
+        ],
+        "displayName": "house_garden"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
